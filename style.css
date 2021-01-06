@@ -25,7 +25,7 @@ header ul li{
 }
 header ul li a{
     text-decoration: none; 
-    color: #3C3C3C;
+    color: #3e4847;
 }
 section{
     height: 500px;
@@ -43,7 +43,7 @@ section{
     width: 80%;
 }
 .tomato{
-    color: tomato;
+    color: #DA6000;
 }
 .link-button{
     text-decoration: none;
@@ -52,7 +52,7 @@ section{
     border-radius: 5px;
     color: #ffffff;
     font-weight: 500;
-    background: #F46060;
+    background: #4936C3;
 }
 .about{
     height: 450px;
@@ -141,6 +141,7 @@ input, textarea, .contact-button {
     position: relative;
     top: 115px;
     left: 820px;
+    background: #DA6000;
 }
 .connected{
     text-align: center;
